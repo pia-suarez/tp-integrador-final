@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1781111637 source:c:\users\user\documents\pia\facu\programacion\1er cuatri\progra i\segunda parte\tps mios\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1781791172 source:c:\users\user\documents\pia\facu\programacion\1er cuatri\progra i\segunda parte\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+
+1773864522 source:c:\users\user\documents\pia\facu\programacion\1er cuatri\progra i\segunda parte\tpfinal\pila.c
+	<stdio.h>
+	"pila.h"
+
+1773864524 c:\users\user\documents\pia\facu\programacion\1er cuatri\progra i\segunda parte\tpfinal\pila.h
+
